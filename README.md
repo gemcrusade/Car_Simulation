@@ -2,7 +2,7 @@
 An innovative car simulation project showcasing advanced features and performance metrics, designed to compete with Tesla's cutting-edge automotive technology.
 
 
-# Car Simulation Project
+# About this Project
 
 This project simulates the movement of cars based on commands entered by the user. Each car can move forward, backward, or rotate left or right. The simulation checks for collisions between cars, and if a collision occurs, the simulation stops.
 
